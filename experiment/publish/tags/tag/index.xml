@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tag on My New Hugo Site</title>
+    <link>/tags/tag.html</link>
+    <description>Recent content in Tag on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/tag/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Dummy repository</title>
+      <link>/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/</guid>
+      <description>Problem: search using lunr when used from file system</description>
+    </item>
+    
+    <item>
+      <title>Section 4</title>
+      <link>/section2/section4.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/section2/section4.html</guid>
+      <description>Install DocDock simply as git clone This method results that files are checked out locally, but won’t be visible from parent git repo. Probably you will build site locally with hugo command and use result from public/ on your own.</description>
+    </item>
+    
+    <item>
+      <title>Section One</title>
+      <link>/section1.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/section1.html</guid>
+      <description>Text</description>
+    </item>
+    
+    <item>
+      <title>Section Three</title>
+      <link>/section2.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/section2.html</guid>
+      <description>Install DocDock from ZIP All files from theme will be tracked inside parent repo, to update it, have to override files in theme. download following zip and extract inside themes/.</description>
+    </item>
+    
+    <item>
+      <title>Section two</title>
+      <link>/section1/section2.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/section1/section2.html</guid>
+      <description>Section 2</description>
+    </item>
+    
+    <item>
+      <title>Single page in section2</title>
+      <link>/section1/section2/single-page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/section1/section2/single-page.html</guid>
+      <description>Gender theory About gender evolutionary theory.</description>
+    </item>
+    
+  </channel>
+</rss>

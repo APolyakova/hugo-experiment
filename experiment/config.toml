@@ -1,0 +1,11 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "docdock"
+publishDir = "publish"
+relativeURLs = true
+uglyurls = true
+
+[outputs]
+home = [ "HTML", "RSS", "JSON"]
+

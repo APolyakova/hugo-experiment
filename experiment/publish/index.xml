@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Dummy repository on My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content in Dummy repository on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Single page in section2</title>
+      <link>/section1/section2/single-page.html</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/section1/section2/single-page.html</guid>
+      <description>Gender theory About gender evolutionary theory.</description>
+    </item>
+    
+  </channel>
+</rss>
